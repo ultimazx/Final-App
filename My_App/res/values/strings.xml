@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My_App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_file_location_and_name">Enter_file_location_and_name</string>
+    <string name="set">Set</string>
+    <string name="password">Password</string>
+    <string name="title_activity_second__page">Second_Page</string>
+    <string name="large_text">Large Text</string>
+    <string name="read">Read</string>
+    <string name="write">Write</string>
+
+</resources>
